@@ -1,0 +1,34 @@
+_repo: Halsey--amp--Co.or-The-Young-Bankers-and-Speculators_21963
+_version: 0.1.0
+alternative_title: Halsey and Company
+covers:
+- cover_type: archival
+  image_path: 21963-h/images/cover-pal1215.jpg
+creator:
+  author:
+    agent_name: Shackleford, H. K. (Harvey King)
+    aliases:
+    - Standish, Hal
+    - Shackleford, Harvey King
+    birthdate: 1841
+    deathdate: 1906
+    gutenberg_agent_id: '24997'
+    url: http://www.gutenberg.org/2009/agents/24997
+description: ''
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Wall Street (New York, N.Y.) -- Juvenile fiction'
+title: 'Halsey & Co.
+
+  or, The Young Bankers and Speculators'
+url: http://www.gutenberg.org/ebooks/21963
