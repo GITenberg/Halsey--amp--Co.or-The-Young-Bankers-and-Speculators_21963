@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '24997'
     url: http://www.gutenberg.org/2009/agents/24997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21963#Halsey--amp--Co.or-The-Young-Bankers-and-Speculators
 gutenberg_issued: '2007-06-29'
 gutenberg_type: Text
 identifiers:
